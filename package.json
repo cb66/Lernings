@@ -1,0 +1,23 @@
+{
+  "name": "lernings",
+  "version": "1.0.0",
+  "description": "Learning TypeScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cb66/Lernings.git"
+  },
+  "author": "CB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cb66/Lernings/issues"
+  },
+  "homepage": "https://github.com/cb66/Lernings#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
